@@ -41,7 +41,7 @@
     // example:
     createCollectable(type.db, 700, 450, 50, .8);
     createCollectable(type.steve, 200, 170, 6, 0.7);
-    createCollectable(type.kennedi, 700, 170, 100, .9);
+    createCollectable(type.kennedi, 700, 170, 100, 1);
 
     // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////
